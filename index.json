@@ -1,0 +1,17 @@
+{
+  "manifests": {
+    "infotech974/pages-bundle": {
+      "versions": {
+        "1.0": {
+          "manifest": "repo/infotech974/pages-bundle/1.0/manifest.json",
+          "recipe": {
+            "name": "infotech974/pages-bundle",
+            "repo": "github.com/infotech974/pages-bundle",
+            "branch": "master",
+            "version": "1.0"
+          }
+        }
+      }
+    }
+  }
+}

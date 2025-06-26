@@ -1,0 +1,8 @@
+{
+  "bundles": {
+    "INFOTECH974\\PagesBundle\\PagesBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "config/"
+  }
+}

@@ -1,0 +1,4 @@
+infotech974_pages_bundle:
+    resource: '../../bundles/bundles/INFOTECH974/PagesBundle/Controller/'
+    type: attribute
+    prefix: /pages

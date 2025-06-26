@@ -1,0 +1,2 @@
+infotech974_pages:
+    default_template: 'components/page_viewer.html.twig'
